@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NY Times Java</string>
+    <string name="API_KEY">O7FLHg4wwR7XxTC7x7smXXcahSznXXQm</string>
+    <string name="BASE_URL">https://api.nytimes.com/</string>
+</resources>
